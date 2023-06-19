@@ -1,0 +1,60 @@
+﻿Política de Privacidade do App MOM
+
+
+Esta Política de Privacidade descreve como o nosso aplicativo móvel, denominado "App MOM" (doravante referido como "Aplicativo"), coleta, usa e compartilha informações pessoais dos usuários. A sua privacidade é importante para nós, e estamos comprometidos em proteger as informações que você compartilha conosco. Ao utilizar o Aplicativo, você concorda com a coleta e uso das suas informações de acordo com esta Política de Privacidade.
+
+
+Informações coletadas
+1.1 Informações fornecidas pelo usuário: Ao utilizar o Aplicativo, podemos coletar informações que você fornece voluntariamente, como nome, endereço de e-mail e outras informações de contato. Além disso, ao interagir com o chat do aplicativo, podemos coletar os textos inseridos por você para processamento e geração de respostas.
+
+
+1.2 Informações geradas pela IA: O Aplicativo utiliza inteligência artificial para processar os textos inseridos e gerar imagens correspondentes. Durante esse processo, podemos coletar informações sobre os padrões de utilização, preferências e comportamentos do usuário para melhorar a qualidade e a eficiência dos serviços prestados.
+
+
+1.3 Informações do dispositivo: Podemos coletar informações sobre o dispositivo que você utiliza para acessar o Aplicativo, incluindo o tipo de dispositivo, sistema operacional, ID do dispositivo e outras informações técnicas relevantes.
+
+
+Uso das informações
+2.1 Personalização e melhoria do serviço: As informações coletadas são utilizadas para personalizar e melhorar a sua experiência com o Aplicativo. Isso inclui fornecer respostas mais precisas e relevantes, aprimorar o desempenho do chat e otimizar a geração de imagens.
+
+
+2.2 Comunicação: Podemos utilizar o seu endereço de e-mail e outras informações de contato para enviar notificações, atualizações ou informações relevantes sobre o Aplicativo.
+
+
+2.3 Segurança: As informações coletadas também podem ser utilizadas para fins de segurança, como prevenção de fraudes, abusos ou atividades maliciosas no Aplicativo.
+
+
+Compartilhamento de informações
+3.1 Terceiros de confiança: Podemos compartilhar informações com terceiros confiáveis ​​que prestam serviços em nosso nome, como processamento de pagamentos, análise de dados, hospedagem de servidores e outros serviços técnicos. Esses terceiros estão obrigados a proteger a privacidade das suas informações de acordo com esta Política de Privacidade.
+
+
+3.2 Consentimento do usuário: Não compartilharemos suas informações pessoais com terceiros não afiliados sem o seu consentimento explícito, exceto quando exigido por lei ou para proteger nossos direitos legais.
+
+
+Retenção de informações
+4.1 Manutenção das informações: As informações coletadas serão retidas apenas pelo tempo necessário para cumprir as finalidades descritas nesta Política de Privacidade, a menos que uma retenção mais longa seja necessária por razões legais ou regulatórias.
+
+
+4.2 Dados anonimizados: Podemos reter e utilizar dados anonimizados ou agregados, que não permitem a identificação do usuário, para fins de análise e melhoria do aplicativo.
+
+
+Segurança das informações
+Implementamos medidas de segurança adequadas para proteger as informações coletadas contra acesso não autorizado, uso indevido ou divulgação não autorizada. No entanto, observe que nenhuma transmissão de dados pela internet ou método de armazenamento eletrônico é 100% seguro, e não podemos garantir a segurança absoluta das informações.
+
+
+Links para sites de terceiros
+O Aplicativo pode conter links para sites de terceiros. Esta Política de Privacidade se aplica apenas ao Aplicativo e não nos responsabilizamos pelas práticas de privacidade de outros sites. Recomendamos que você leia as políticas de privacidade de terceiros antes de fornecer suas informações pessoais.
+
+
+Alterações nesta política
+Podemos atualizar esta Política de Privacidade periodicamente para refletir alterações nas práticas de coleta, uso e compartilhamento de informações. Quaisquer alterações serão efetivas quando a nova versão da Política de Privacidade for publicada no Aplicativo.
+
+
+Contato
+Se você tiver alguma dúvida, preocupação ou solicitação relacionada a esta Política de Privacidade ou ao uso das suas informações, entre em contato conosco através dos canais de suporte fornecidos no Aplicativo.
+
+
+Data de entrada em vigor: 19/06/2023
+
+
+Esta Política de Privacidade está sujeita às leis e regulamentos aplicáveis.
